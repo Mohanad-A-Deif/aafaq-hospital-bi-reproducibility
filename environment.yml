@@ -1,0 +1,21 @@
+name: aafaq-hospital-bi
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - openpyxl
+  - pytest
+  - pip
+  - pip:
+      - transformers
+      - datasets
+      - accelerate
+      - evaluate
+      - sacrebleu
+      - rouge-score
+      - bert-score
+      - sentencepiece

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "AAFAQ-Compatible Hospital BI Case Study Reproducibility Package"
+message: "If you use this code or synthetic Hospital BI evaluation set, please cite the associated manuscript."
+type: software
+authors:
+  - family-names: "Deifallah"
+    given-names: "Mohanad Ali"
+  - family-names: "Hafez"
+    given-names: "Mohamed A."
+  - family-names: "Metawa"
+    given-names: "Noura"
+  - family-names: "Al Ali"
+    given-names: "Amel Ibrahim"
+  - family-names: "Elhoseny"
+    given-names: "Mohamed"
+license: MIT
+version: 1.0.0

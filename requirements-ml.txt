@@ -1,0 +1,10 @@
+-r requirements.txt
+torch>=2.0
+transformers>=4.40
+datasets>=2.19
+accelerate>=0.30
+evaluate>=0.4
+sacrebleu>=2.4
+rouge-score>=0.1.2
+bert-score>=0.3.13
+sentencepiece>=0.2

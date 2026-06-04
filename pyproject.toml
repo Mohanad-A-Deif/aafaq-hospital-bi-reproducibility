@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools>=65", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aafaq-hospital-bi"
+version = "1.0.0"
+description = "Reproducibility package for AAFAQ-compatible Hospital BI case study."
+requires-python = ">=3.9"
